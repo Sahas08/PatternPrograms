@@ -1,4 +1,18 @@
- public class Main
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+
+
+----------CODE----------
+
+
+public class Main
  {
         public static void main(String args[])
         {
